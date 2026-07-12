@@ -1,0 +1,26 @@
+{
+  "name": "pi-skill-system-creator",
+  "version": "0.1.0",
+  "description": "A pi skill that creates, extends, and audits skill chain systems — multi-phase skill workflows that pass state through a shared file so they survive across sessions.",
+  "type": "module",
+  "keywords": [
+    "pi-package"
+  ],
+  "homepage": "https://github.com/KcAnom/pi-skill-system-creator#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KcAnom/pi-skill-system-creator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KcAnom/pi-skill-system-creator/issues"
+  },
+  "files": [
+    "skills"
+  ],
+  "pi": {
+    "skills": [
+      "./skills"
+    ]
+  },
+  "license": "MIT"
+}
