@@ -1,3 +1,9 @@
+<div align="center">
+
+![System Creator — once upon a terminal](https://raw.githubusercontent.com/KcAnom/pi-skill-system-creator/main/assets/masthead.webp)
+
+</div>
+
 # pi-skill-system-creator
 
 A [pi coding agent](https://github.com/earendil-works/pi-mono) skill that **creates, extends, and audits skill *chains*** — multi-phase workflows where each phase is its own skill and state flows between them through a shared file on disk, so the workflow survives across separate sessions and context windows.

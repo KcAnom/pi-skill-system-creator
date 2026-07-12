@@ -20,7 +20,8 @@
   "pi": {
     "skills": [
       "./skills"
-    ]
+    ],
+    "image": "https://raw.githubusercontent.com/KcAnom/pi-skill-system-creator/main/assets/masthead.webp"
   },
   "license": "MIT"
 }
